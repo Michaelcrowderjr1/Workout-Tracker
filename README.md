@@ -28,6 +28,7 @@ The user can track the name, type, weight, sets, reps, and duration of their exe
 https://github.com/Michaelcrowderjr1/workout-tracker/blob/main/screenshot.png?raw=true">
 https://github.com/Michaelcrowderjr1/Workout-Tracker/blob/main/WorkoutTrackerImage.PNG?raw=true
 https://raw.githubusercontent.com/Michaelcrowderjr1/Workout-Tracker/main/WorkoutTrackerImage.PNG
+https://github.com/JerronM/workout-tracker/blob/main/screenshot.png?raw=true
 
 
 ### Heroku Link
