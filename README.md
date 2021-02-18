@@ -19,6 +19,8 @@ Add new exercises to a new workout plan.
 
 View the combined weight of multiple exercises on the stats page.
 
+The user can track the name, type, weight, sets, reps, and duration of their exercise.
+
 <p>&nbsp;<p>
 
 ## Table of Contents
