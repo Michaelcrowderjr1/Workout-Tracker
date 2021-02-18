@@ -25,7 +25,7 @@ The user can track the name, type, weight, sets, reps, and duration of their exe
 
 ## Screenshot
 
-<img src="/Michaelcrowderjr1/Workout-Tracker/blob/main/WorkoutTrackerImage.PNG?raw=true" alt="WorkoutTrackerImage.PNG">
+<img src="https://github.com/Michaelcrowderjr1/workout-tracker/blob/main/screenshot.png?raw=true">
 
 ### Heroku Link
 [Heroku Workout Tracker Link](https://obscure-sierra-98370.herokuapp.com/)
