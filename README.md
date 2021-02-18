@@ -11,15 +11,12 @@
 
 ## Description
 
-Workout Tracker allows user to view create and track daily workouts. The user is able to:
-* Log multiple exercises in a workout
-* Track the name, type, weight, sets, reps, and duration of each resistence exercise
-* Track the distance traveled if the exercise was cardio based
-* View stats page through their dashboard. They are presented with four charts:
-  * Graph that tracks how much time in minutes he/she spent working out day by day.
-  * Graph that tracks how much wight in pounds he/she lifted working out day by day.
-  * Pie chart that shows the exercises completed by time.
-  * Pie chart that shows the exercises completed by weight.
+Users are be able to:
+Add exercises to a previous workout plan.
+
+Add new exercises to a new workout plan.
+
+View the combined weight of multiple exercises on the stats page.
 
 <p>&nbsp;<p>
 
