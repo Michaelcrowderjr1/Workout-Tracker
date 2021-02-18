@@ -76,18 +76,6 @@ When the user enters the main page, he/she will see the most recent workout deta
 
 <p>&nbsp;<p>
 
-### Sample Screenshots
-
-### Workout Tracker Main Page with no previous data
-![Workout Tracker Main Page Image](./WorkoutTrackerImage1.PNG)
-### Workout Tracker Add Exercise
-![Workout Tracker Add Exercise Image](./WorkoutTrackerImage3.PNG)
-### Workout Tracker Main Page showing last entry totals
-![Workout Tracker Main Page showing last entry totals image](./WorkoutTrackerImage5.PNG)
-### Workout Tracker Stats Page Image
-![Workout Tracker Stats Page Image](./WorkoutTrackerImage4.PNG)
-
-<p>&nbsp;<p>
 
 ## License
 
