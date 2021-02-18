@@ -8,11 +8,10 @@
 
   ---
   
-<p>&nbsp;<p>
 
 ## Description
 
-Users are be able to:
+Users are able to:
 
 Add exercises to a previous workout plan.
 
