@@ -23,6 +23,11 @@ View the combined weight of multiple exercises on the stats page.
 The user can track the name, type, weight, sets, reps, and duration of their exercise.
 
 
+## Screenshot
+Application Main Screen:
+<img src="https://github.com/JerronM/workout-tracker/blob/main/screenshot.png?raw=true">
+
+
 
 ### Heroku Link
 [Heroku Workout Tracker Link](https://obscure-sierra-98370.herokuapp.com/)
