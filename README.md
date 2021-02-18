@@ -25,7 +25,7 @@ The user can track the name, type, weight, sets, reps, and duration of their exe
 
 ## Screenshot
 Application Main Screen:
-<img src="https://github.com/JerronM/workout-tracker/blob/main/screenshot.png?raw=true">
+<img src="https://github.com/MichaelC/workout-tracker/blob/main/screenshot.png?raw=true">
 
 
 
