@@ -24,7 +24,7 @@ The user can track the name, type, weight, sets, reps, and duration of their exe
 
 
 ## Screenshot
-\Users\212717975\Pictures\WorkoutTrackerImage.PNG
+![Workout Tracker Main Page Image](./WorkoutTrackerImage1.PNG)
 
 
 
