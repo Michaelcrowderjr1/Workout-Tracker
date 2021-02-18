@@ -12,6 +12,7 @@
 ## Description
 
 Users are be able to:
+
 Add exercises to a previous workout plan.
 
 Add new exercises to a new workout plan.
